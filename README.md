@@ -2,19 +2,19 @@
 WMTFTPServer Public Branch
 
 ## How To Use ?
-Download the WMTFTPServer.php file to a folder that pathed with no special characters.\n
-Download the latest PHP 8 for your system.\n
-\n
-On Windows:\n
-Copy the php.ini-production to php.ini, edit it with Visual Studio Code.\n
-Uncomment line ```extension_dir = "ext"```.\n
-Uncomment line ```extension=mbstring```.\n
-Uncomment line ```extension=sockets```.\n
-\n
-On Linux:\n
-You just need to install the mbstring and sockets extension with your package manager.\n
-\n
-cd to your dir.\n
-mkdir tftp.\n
-Put your files to the tftp folder.\n
-Run ```php WMTFTPServer.php```.\n
+Download the WMTFTPServer.php file to a folder that pathed with no special characters.<br>
+Download the latest PHP 8 for your system.<br>
+<br>
+On Windows:<br>
+Copy the php.ini-production to php.ini, edit it with Visual Studio Code.<br>
+Uncomment line ```extension_dir = "ext"```.<br>
+Uncomment line ```extension=mbstring```.<br>
+Uncomment line ```extension=sockets```.<br>
+<br>
+On Linux:<br>
+You just need to install the mbstring and sockets extension with your package manager.<br>
+<br>
+cd to your dir.<br>
+mkdir tftp.<br>
+Put your files to the tftp folder.<br>
+Run ```php WMTFTPServer.php```.<br>
